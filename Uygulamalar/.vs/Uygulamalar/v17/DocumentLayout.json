@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevl\u00FCt\\source\\repos\\Uygulamalar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C9746-D25D-4B7D-A2F7-09BEA1500712}|Uygulamalar\\Uygulamalar.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\uygulamalar\\uygulamalar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62C9746-D25D-4B7D-A2F7-09BEA1500712}|Uygulamalar\\Uygulamalar.csproj|solutionrelative:uygulamalar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\Uygulamalar\\Uygulamalar\\Program.cs",
+              "RelativeDocumentMoniker": "Uygulamalar\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\Uygulamalar\\Uygulamalar\\Program.cs*",
+              "RelativeToolTip": "Uygulamalar\\Program.cs*",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAqwIkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:23:34.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
